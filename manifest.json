@@ -52,11 +52,5 @@
         }
     ],
     "prefer_related_applications": true,
-    "related_applications": [
-        {
-            "platform": "play",
-            "url": "https://play.google.com/store/apps/details?id=com.github.android",
-            "id": "com.github.android"
-        }
-    ]
+    "related_applications": []
 }
