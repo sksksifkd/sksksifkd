@@ -1,0 +1,18 @@
+{
+    "name": "deaco",
+    "short_name": "deaco",
+    "description": "deaco",
+    "lang": "en-AU",
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#0275d8",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "845x848",
+            "type": "image/png"
+        }
+    ]
+}
