@@ -5,9 +5,50 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "https://deaco.deowler.tech/favicon.png",
-            "sizes": "845x848",
-            "type": "image/png"
+            "sizes": "114x114",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "120x120",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "152x152",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "180x180",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "57x57",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "60x60",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "sizes": "76x76",
+            "src": "https://deaco.defowler.tech/favicon.png"
+        },
+        {
+            "src": "https://deaco.defowler.tech/favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://deaco.defowler.tech/favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
         }
     ],
     "prefer_related_applications": true,
