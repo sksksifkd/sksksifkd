@@ -5,7 +5,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "favicon.png",
+            "src": "https://deaco.deowler.tech/favicon.png",
             "sizes": "845x848",
             "type": "image/png"
         }
