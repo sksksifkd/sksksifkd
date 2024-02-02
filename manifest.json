@@ -1,6 +1,7 @@
 {
     "name": "Deaco",
     "short_name": "Deaco",
+    "version": "0.0.1",
     "start_url": "/",
     "display": "standalone",
     "icons": [
